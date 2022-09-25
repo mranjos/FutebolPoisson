@@ -1,5 +1,6 @@
 # Previsão de resultados do campeonato brasileiro
 
+Link para acesso: https://mrapps.shinyapps.io/Statistics/
 Etapas:
 
 1 - Acompanhamento de histórico de gols do campeonato brasileiro - Done
